@@ -3,6 +3,8 @@ package com.home.loans.carloans;
 public class SecondClass {
 	
 	int a=30,b=10,c;
+	//test1
+	int z=1;
 		
 	public void sum()
 	{
