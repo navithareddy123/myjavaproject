@@ -21,7 +21,6 @@ public class SecondClass {
 		System.out.println("second class");
 		SecondClass sc=new SecondClass();
 		sc.sum();
-		sc.sub();
 		System.out.println(sc.c);
 	}
 }
