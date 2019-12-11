@@ -15,13 +15,14 @@ public class DemoClass {
 		z=x+y;
 		System.out.println(z);
 	}
+	static String sno="krish";
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 	DemoClass dc=new DemoClass();
 	dc.add();
 	dc.sub();
-	
+	System.out.println(sno);
 	
 	}
 	
