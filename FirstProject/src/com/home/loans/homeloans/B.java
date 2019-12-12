@@ -2,7 +2,7 @@ package com.home.loans.homeloans;
 
 public class B extends A
 {
-	
+	int x=100;
 	public void m2()
 	{
 		System.out.println("method from class B");
