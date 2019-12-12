@@ -3,7 +3,7 @@ package com.home.loans.carloans;
 public class SecondClass {
 	
 	int a=30,b=10,c;
-	//test me
+
 	int z=1;
 		
 	public void sum()
@@ -23,7 +23,6 @@ public class SecondClass {
 		System.out.println("second class");
 		SecondClass sc=new SecondClass();
 		sc.sum();
-		sc.sub();
 		System.out.println(sc.c);
 	}
 }
